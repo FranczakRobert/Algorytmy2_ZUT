@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Dynamic",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Dynamic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dynamic-Debug-10cd94d88933bed6a001.json",
+					"name" : "Dynamic",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/robertfranczak/Documents/ZUT/ZUT MATERIA\u0141Y/Rok 2/Semestr I/Algorytmy/Lab/Dynamic/cmake-build-debug",
+		"source" : "/Users/robertfranczak/Documents/ZUT/ZUT MATERIA\u0141Y/Rok 2/Semestr I/Algorytmy/Lab/Dynamic"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
